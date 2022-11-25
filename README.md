@@ -40,5 +40,6 @@ docker-compose up
 
 And to run the FastApi server in another console run:
  ```shell
+poetry shell
 uvicorn main:app --reload
 ```
