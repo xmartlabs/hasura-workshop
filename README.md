@@ -35,8 +35,7 @@ poetry install
 To run both instances of Hasura that we will be using just run:
 
 ```shell
-pyenv install 3.10.2
-pyenv local 3.10.2
+docker-compose up
 ```
 
 And to run the FastApi server in another console run:
