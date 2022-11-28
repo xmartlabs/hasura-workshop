@@ -8,4 +8,5 @@ authors = ["Your Name <diego.cousin@xmartlabs.com>"]
 python = "3.10.2"
 fastapi = "^0.87.0"
 uvicorn = "^0.20.0"
+PyJWT = "^2.6.0"
 

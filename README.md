@@ -15,6 +15,10 @@ https://python-poetry.org/docs/#installation
 
 Note: We will be using python just for the custom actions and triggers and the logic will be already implemented by the time the workshop start, the goal of this workshop is not to improve our python coding
 
+### Install Hasura cli
+```shell
+curl -L https://github.com/hasura/graphql-engine/raw/stable/cli/get.sh | bash
+```
 ### Project setup
 Note: This step can be skipped if you are already using other python version handler or if you already have python 3.7 or above installed on your machine.
 
